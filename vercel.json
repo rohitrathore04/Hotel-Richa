@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hotel-richa",
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
+    }
+  ]
+}
